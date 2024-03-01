@@ -1,0 +1,16 @@
+{
+  "name": "learnbackend",
+  "version": "1.0.0",
+  "description": "A backend by Manthan Indane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "manthan"
+  ],
+  "author": "Manthan Indane",
+  "license": "ISC"
+}
